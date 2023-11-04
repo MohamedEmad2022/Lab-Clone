@@ -305,14 +305,12 @@ body{
 /*login page style*/
 
 .login-form{
-    float: left;
     position: relative;
-    margin-top: 70px;
+    top: 100px;
     width: 600px;
-    height: auto;
+    height: 500px;
     background: white;
-    margin-left: 30%;
-    margin-bottom: 30px;
+    margin: auto;
 }
 .login-form h2{
     text-align: center;
