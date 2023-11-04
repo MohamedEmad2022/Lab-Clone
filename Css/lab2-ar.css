@@ -135,7 +135,7 @@ body{
 }
 .box{
     float: right;
-    width: 47%;
+    width: 30%;
     height: 350px;
     margin-left: 20px;
     border-radius: 10px;
@@ -455,6 +455,12 @@ body{
         height: 500px;
         width: 400px;
     }
+}
+.ar, .en{
+    display: inline-block;
+    font: 20px bold;
+    margin-left: 20px;
+    cursor: pointer;
 }
 /*phone style*/
 @media screen and (max-width:600px){
