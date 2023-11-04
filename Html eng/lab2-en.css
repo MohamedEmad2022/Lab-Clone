@@ -115,6 +115,7 @@ body{
     float: left;
     width: 100%;
     height: auto;
+    margin-top: 20px;
     padding: 10px 50px;
     background: rgb(236, 236, 236);
     box-sizing: border-box;
@@ -403,22 +404,22 @@ body{
 .con-info .part{
     float: left;
     width: 100%;
-    height: 300px;
+    height: auto;
     margin-bottom: 70px;
 }
 .con-info .part .con-right{
     float: left;
     width: 40%;
-    height: 100%;
+    height: 300px;
 }
 .con-info .part .con-right img{
     width: 100%;
     height: 100%;
 }
 .con-info .part .con-left{
-    float: right;
+    float: left;
     width: 55%;
-    height: 100%;
+    height: 300px;
 }
 .con-info .part .con-left h2{
     text-align: left;
